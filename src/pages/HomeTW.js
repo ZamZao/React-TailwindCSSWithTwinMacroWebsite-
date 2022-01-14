@@ -7,10 +7,8 @@ import NavBarTW from '../components/NavBar/NavbarTW';
 function HomeTW() {
   return (
     <>
-      <NavBarTW />
       <HeroSectionTW/>
       <CardsTW />
-      <Footer/>
     </>
   );
 }

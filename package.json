@@ -2,7 +2,7 @@
   "name": "navbar-dropdown-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/zamzao/react-tailwindcsswithtwinmacroWebsite-.git",
+  "homepage":"https://github.com/zamzao/react-tailwindcsswithtwinmacrowebsite-.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^9.3.2",
