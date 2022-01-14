@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/zamzao/react-tailwindcsswithtwinmacroWebsite-.git/precache-manifest.d5cd6f9bbf0015610266f6c9043c7247.js"
+  "/zamzao/react-tailwindcsswithtwinmacrowebsite-.git/precache-manifest.66bc4c49df719ccc68aa325be2751731.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/zamzao/react-tailwindcsswithtwinmacroWebsite-.git/index.html", {
+workbox.routing.registerNavigationRoute("/zamzao/react-tailwindcsswithtwinmacrowebsite-.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
